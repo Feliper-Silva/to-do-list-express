@@ -4,8 +4,8 @@
   "description": "lista de tarefa",
   "main": "app.js",
   "scripts": {
-    "start": "app.js",
-    "dev": "nodemon"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "Felipe Rodrigues",
   "license": "MIT",
