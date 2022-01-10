@@ -1,6 +1,6 @@
 # To-Do-list - Lista de tarefas
 
-Um app com front-end e bacck-end dinâmicos, conectado ao MongoDB.
+Um app com front-end e back-end dinâmicos, conectado ao MongoDB.
 
 ## Funcionalidades:
 
