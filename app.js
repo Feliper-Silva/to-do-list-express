@@ -21,6 +21,9 @@ app.set('view engine', 'ejs');
 
 app.use('/', rootRouter);
 app.use('/checklists', checklistsRouter);
+function CheckListsrouter(req, res, next){
+  if(req.chelistsRouter) return checklistsRouter
+}
 app.use('/checklists', taskRouter.checklistDepedent);
 app.use('/tasks', taskRouter.simple);
 
