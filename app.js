@@ -1,3 +1,4 @@
+require("dotenv").config()
 const express = require('express');
 const path = require('path');
 
@@ -24,6 +25,6 @@ app.use('/checklists', checklistsRouter);
 app.use('/checklists', taskRouter.checklistDepedent);
 app.use('/tasks', taskRouter.simple);
 
-app.listen(3000, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log('Server iniciado na porta:3000');
 });
