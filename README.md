@@ -17,7 +17,7 @@ Back-end:
 
 - JavaScript
 - NodeJS
- - Express
+  - Express
 
 Banco de dados:
 
@@ -29,7 +29,7 @@ Banco de dados:
   git clone https://github.com/Feliper-Silva/to-do-list-express
 
 ```
-
+### inicializar:
 ```bash
   yarn run dev
 ```
