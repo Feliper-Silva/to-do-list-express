@@ -17,7 +17,7 @@ Back-end:
 
 - JavaScript
 - NodeJS
-- Express
+ - Express
 
 Banco de dados:
 
@@ -31,7 +31,11 @@ Banco de dados:
 ```
 
 ```bash
-  yarn run dev OR npm run dev
+  yarn run dev
+```
+OR
+```bash
+  npm run dev
 ```
 
 ## License
