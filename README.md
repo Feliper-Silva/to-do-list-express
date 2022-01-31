@@ -4,7 +4,7 @@ Um app com front-end e back-end dinâmicos, conectado ao MongoDB.
 
 ## Funcionalidades:
 
-- [x] Criação de taefa principal.
+- [x] Criação de tarefa principal.
 - [x] Criação de Sub-tarefas.
 - [x] Edição de listas.
 - [x] Exclusão de tarefas.
