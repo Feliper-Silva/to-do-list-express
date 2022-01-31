@@ -4,7 +4,13 @@ Um app com front-end e back-end dinâmicos, conectado ao MongoDB.
 
 ## Funcionalidades:
 
-Inserção de listas pais e listas filhas, Atualização do nome e exclusão de ambas.
+- [x] Criação de taefa principal.
+- [x] Criação de Sub-tarefas.
+- [x] Edição de listas.
+- [x] Exclusão de tarefas.
+- [x] Atualização de nomes.
+- [x] Marcação de conclusão de tarefa. 
+
 
 ## Tecnologias:
 
