@@ -1,8 +1,12 @@
-# To-Do-list - Lista de tarefas
+<h1 align="center" >To-Do-list - Lista de tarefas</h1>
 
-Um app com front-end e back-end dinâmicos, conectado ao MongoDB.
+<h4 align="center"> <img src="https://user-images.githubusercontent.com/84206933/153738576-e207a0fe-2fa6-4417-b60b-25d1b992c723.png" /></h4>
 
-## Funcionalidades:
+
+### 📋 Sobre
+Lista de tarefas para ajudar na organização do seu dia.
+
+### Funcionalidades:
 
 - [x] Criação de tarefa principal.
 - [x] Criação de Sub-tarefas.
@@ -12,27 +16,34 @@ Um app com front-end e back-end dinâmicos, conectado ao MongoDB.
 - [x] Salvar no banco de dados.
 
 
-## Tecnologias:
+### 🛠️ Tecnologias
 
 Front-end:
-
-- EJS
-- Bulma Css3
+- [EJS](https://www.npmjs.com/package/ejs)
+- [Bulma](https://bulma.io/)
 
 Back-end:
 
-- JavaScript
-- NodeJS
-  - Express
+- [NodeJs](https://nodejs.org/)
 
-Banco de dados:
+### 🔨 Framework:
 
-- MongoDB (não relacional)
+- [Express](https://expressjs.com/)
 
-## Utilizar:
+### 📂 Package:
+- [EJS](https://www.npmjs.com/package/ejs)
+
+### 🏦 Banco de dados:
+- [MongoDB](https://www.mongodb.com/)
+
+### :rocket: Como executar:
+clone o projeto é entre na pasta do mesmo:
 
 ```bash
   git clone https://github.com/Feliper-Silva/to-do-list-express
+  
+  # entrar na pasta:
+  cd to-do-list-express
 
 ```
 ### inicializar:
@@ -44,6 +55,6 @@ OR
   npm run dev
 ```
 
-## License
+### 📝 License
 
-MIT © [Felipe Silva](https://www.linkedin.com/in/feliper-silva/)
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Feliper-Silva/to-do-list-express/blob/master/LICENSE.md) para mais detalhes.
